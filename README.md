@@ -1,5 +1,5 @@
 
-## Anna Ferreira é estudante de programação e tecnologia!
+## Anna Ferreira é Apaixonada pela Progrmação!
 
 <div align="center">
   <a href="https://github.com/AccFerreira">
