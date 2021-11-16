@@ -1,5 +1,5 @@
 
-## Anna Ferreira é Apaixonada pela Progrmação!
+## Anna Ferreira é Apaixonada pela Programação!
 
 <div align="center">
   <a href="https://github.com/AccFerreira">
